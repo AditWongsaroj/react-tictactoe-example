@@ -19,7 +19,7 @@ body {
   aspect-ratio: 1;
   margin-right: -1px;
   margin-top: -1px;
-  width: min(30%, 30vh);
+  width: min(30%, 29vh);
 }
 
 .board-row:after {
